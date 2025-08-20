@@ -5,6 +5,8 @@ Hey there, brave soul! 👋
 Welcome to the **least stressful, most fun interview prep repo** for Computer Vision, Machine Learning, and Deep Learning.  
 We’ve got questions, code snippets, and brain-bending concepts… and answers! And don’t worry, **no tears required**.
 
+![](./resources/start_meme.png)  
+
 ---
 
 ## ⚖️ Important note (aka “We Play by the Rules”)
