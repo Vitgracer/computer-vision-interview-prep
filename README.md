@@ -1,3 +1,10 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Vitgracer/computer-vision-interview-prep?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vitgracer/computer-vision-interview-prep?color=green)
+![GitHub stars](https://img.shields.io/github/stars/Vitgracer/computer-vision-interview-prep?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Vitgracer/computer-vision-interview-prep?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
+
 # 🎉Interview Preparation: Computer Vision & ML & Deep Learning
 
 Hey there, brave soul! 👋
