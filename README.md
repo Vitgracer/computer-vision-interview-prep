@@ -21,36 +21,36 @@ We do **not** use any proprietary information from any company.
 - Probability & Statistics (because life is uncertain, like your last interview 😂)
 - Optimization
 - Calculus
-- [Examples & Exercises](math/) – practice without pain
+[Go to the chapter](math/)
 
 ### 🤖 Machine Learning (ML)
 - Classification & Regression
 - Feature Engineering
 - Data Handling
-- [Examples & Exercises](ml/)
+[Go to the chapter](ml/)
 
 ### 🧠 Deep Learning (DL)
 - Neural Networks
-- CNN, RNN, Transformers
+- CNN, Transformers
 - Training & Optimization
-- [Python Examples & Implementations](dl/)
+[Go to the chapter](dl/)
 
 ### 🖼️ Computer Vision (CV)
 - Image Processing
 - Detection & Segmentation and many others "***tion"
-- [Examples & Exercises](cv/)
+[Go to the chapter](cv/)
 
 ### 💻 Programming & Algorithms
 - Python & C++ questions 
 - Algorithms & Data Structures challenges 
-- [Examples & Exercises](coding/)
+[Go to the chapter](coding/)
 
 ---
 
-## ⚡ Why this repo rocks
+## ⚡ Why this repo?
 
 - 🧘 Stress-free learning environment  
-- 🥳 Theory + code + humor  
+- 🥳 Theory + code + stupid humor
 - 🤯 Broad prep for any kind of interview
 
 ---
@@ -68,4 +68,4 @@ git clone https://github.com/yourusername/chill-cv-ml-interview.git
 ## 🤝 Contributing
 
 Got a funny ML meme, a tricky question, or some cool Python snippet?
-Open a **Pull Request** and share the joy! 🎉
+Open a **Pull Request** and share your experience! 🎉
