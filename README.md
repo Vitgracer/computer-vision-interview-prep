@@ -61,3 +61,11 @@ We do **not** use any proprietary information from any company.
 ```bash
 git clone https://github.com/yourusername/chill-cv-ml-interview.git
 ```
+2. Pick a topic that looks cool
+3. Read question, think, resolve, and see the answer.
+4. Impress yourself (and maybe your interviewer)
+
+## 🤝 Contributing
+
+Got a funny ML meme, a tricky question, or some cool Python snippet?
+Open a **Pull Request** and share the joy! 🎉
