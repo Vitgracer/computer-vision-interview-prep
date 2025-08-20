@@ -23,28 +23,33 @@ We do **not** use any proprietary information from any company.
 - Probability & Statistics (because life is uncertain, like your last interview 😂)
 - Optimization
 - Calculus
+  
 [Go to the chapter](math/)
 
 ### 🤖 Machine Learning (ML)
 - Classification & Regression
 - Feature Engineering
 - Data Handling
+  
 [Go to the chapter](ml/)
 
 ### 🧠 Deep Learning (DL)
 - Neural Networks
 - CNN, Transformers
 - Training & Optimization
+  
 [Go to the chapter](dl/)
 
 ### 🖼️ Computer Vision (CV)
 - Image Processing
 - Detection & Segmentation and many others "***tion"
+  
 [Go to the chapter](cv/)
 
 ### 💻 Programming & Algorithms
 - Python & C++ questions 
-- Algorithms & Data Structures challenges 
+- Algorithms & Data Structures challenges
+  
 [Go to the chapter](coding/)
 
 ---
