@@ -1,3 +1,10 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Vitgracer/computer-vision-interview-prep?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vitgracer/computer-vision-interview-prep?color=green)
+![GitHub stars](https://img.shields.io/github/stars/Vitgracer/computer-vision-interview-prep?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Vitgracer/computer-vision-interview-prep?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
+
 # 🎉Interview Preparation: Computer Vision & ML & Deep Learning
 
 Hey there, brave soul! 👋
@@ -23,28 +30,33 @@ We do **not** use any proprietary information from any company.
 - Probability & Statistics (because life is uncertain, like your last interview 😂)
 - Optimization
 - Calculus
+  
 [Go to the chapter](math/)
 
 ### 🤖 Machine Learning (ML)
 - Classification & Regression
 - Feature Engineering
 - Data Handling
+  
 [Go to the chapter](ml/)
 
 ### 🧠 Deep Learning (DL)
 - Neural Networks
 - CNN, Transformers
 - Training & Optimization
+  
 [Go to the chapter](dl/)
 
 ### 🖼️ Computer Vision (CV)
 - Image Processing
 - Detection & Segmentation and many others "***tion"
+  
 [Go to the chapter](cv/)
 
 ### 💻 Programming & Algorithms
 - Python & C++ questions 
-- Algorithms & Data Structures challenges 
+- Algorithms & Data Structures challenges
+  
 [Go to the chapter](coding/)
 
 ---
