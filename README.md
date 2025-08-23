@@ -83,3 +83,6 @@ git clone https://github.com/yourusername/chill-cv-ml-interview.git
 
 Got a funny ML meme, a tricky question, or some cool Python snippet?
 Open a **Pull Request** and share your experience! 🎉
+
+## Update 
+The repo content moved to the [Author's website](https://vitgracer.github.io/index.html) and repo was acrhived.
